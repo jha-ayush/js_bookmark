@@ -1,2 +1,3 @@
-# js_bookmark
-practicing with javascript - bookmark
+# Bookmarker LocalStorage App
+
+JavaScript Bookmarker App
