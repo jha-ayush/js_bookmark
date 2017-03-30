@@ -1,3 +1,3 @@
 # Bookmarker LocalStorage App
 
-JavaScript Bookmarker App
+Sitemarker - JavaScript Bookmark App
