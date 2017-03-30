@@ -2,14 +2,14 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #c0c0c0;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
 .footer {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding: 0 15px;
 }
 
 /* Custom page header */
